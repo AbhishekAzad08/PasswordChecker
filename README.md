@@ -16,11 +16,13 @@ Both Task 1 and 2 have been implemented.
 # Solution components
 1. .Net Core Console App
 2. .Net Core Web API
-3. xUnit Test project
+3. xUnit Test project (Unit tests have been added for Service methods)
 
 # Build and Run instructions
 Open the .sln file in Visual Studio 
+
 Set the Console App and the Web API as Startup project
+
 Run the solution 
 
 # Running the Unit test cases
